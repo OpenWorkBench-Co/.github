@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../logo.svg" alt="OpenWorkBench" width="220" />
+  <img src="logo.svg" alt="OpenWorkBench" width="220" />
 </p>
 
 <h3 align="center">De-Cloud. De-SaaS. Empower Digital Independence.</h3>

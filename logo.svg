@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 310">
+  <!-- Open arc: 300° circle with gap at top — "open" and breaking free from enclosure -->
+  <path d="M 194 54 A 88 88 0 1 1 106 54"
+        fill="none" stroke="#0F172A" stroke-width="12" stroke-linecap="round"/>
+  <!-- W: Workbench mark, monoline, inside the arc -->
+  <polyline points="89,69 112,176 150,134 188,176 211,69"
+            fill="none" stroke="#0F172A" stroke-width="12"
+            stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wordmark -->
+  <text x="150" y="248" text-anchor="middle"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="26" font-weight="800" letter-spacing="10" fill="#6366F1">OPEN</text>
+  <text x="150" y="292" text-anchor="middle"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="36" font-weight="800" letter-spacing="1" fill="#0F172A">WORKBENCH</text>
+</svg>
